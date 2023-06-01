@@ -1,0 +1,35 @@
+header {
+  background-color: green;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+nav {
+  background-color: blue;
+  color: white;
+  color: #0066cc #0088ff #66b2ff #99ccff #cce6ff;
+  color: #99cc00 #b2d732 #cce066 #e6f199 #f2ffb2;
+  color: #ff6600 #ff8833 #ffb266 #ffcc99 #ffe5cc;
+  color: #00cc99 #33d6ad #66e6bf #99f2d9 #ccede5;
+  color: #993399 #b347b2 #cc66cc #e599e5 #f2b2f2;
+}
+
+div {
+  height: 50px;
+}
+.m1 .a1 {
+  background-color: #1c4159;
+}
+.m1 .a2 {
+  background-color: #6fb98f;
+}
+.m1 .a3 {
+  background-color: #b7e4c7;
+}
+.m1 .a4 {
+  background-color: #f3e9d2;
+}
+.m1 .a5 {
+  background-color: #f8f8f8;
+}
