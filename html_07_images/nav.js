@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (nav_text === "관리자") {
       document.location.href = "https://naver.com";
     }
-    // alert(target.innerText);
+    // alert(target.id);
   };
   // nav_ul.onClick = nav_click
   /*
